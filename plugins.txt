@@ -7,3 +7,4 @@ docker-workflow:563.vd5d2e5c4007f
 configuration-as-code:latest
 job-dsl:1.83
 pipeline-stage-view:latest
+artifact-manager-s3:754.vb_5d21c758eb_3
